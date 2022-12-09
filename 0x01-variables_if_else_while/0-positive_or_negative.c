@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - main block 
+ *main - Entry point
  *Description - get a random number and print number
  *Return 0
  */
@@ -11,7 +11,7 @@ int main(void)
 int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-/* your code goes there */
+/* Random number and print number */
 if (n > 0)
 {
 printf("%i is positive\n", n);
