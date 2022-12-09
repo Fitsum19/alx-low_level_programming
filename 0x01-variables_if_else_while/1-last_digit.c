@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  *Main- Entry point
- *Description- The last digit
+ *Description- 'The last digit'
  *Return: Always 0  (Success)
  */
 int main(void)
