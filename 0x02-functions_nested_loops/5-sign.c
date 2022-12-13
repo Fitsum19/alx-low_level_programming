@@ -1,5 +1,4 @@
-
-0;276;0c#include "main.h"
+#include "main.h"
 /**
 *print_sign - a function that prints the sign of a number
 *@n: number input
