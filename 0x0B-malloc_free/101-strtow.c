@@ -21,7 +21,7 @@ w++;
 return (w);
 }
 /**
-* **strtow - splits a string 
+* **strtow - splits a string
 * @str: string
 * Return: (Success) or NULL (Error)
 */
