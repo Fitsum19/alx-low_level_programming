@@ -1,5 +1,7 @@
 #ifndef LISTS_H
 #define LISTS_H
+
+#include <stdlib.h>
 /**
  * struct list_s - struct list_s
  * @str: string
