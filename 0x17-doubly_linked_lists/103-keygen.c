@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Fitsum19 
-bdbaraban
-/
-holbertonschool-low_level_programming
-Public
-Fork your own copy of bdbaraban/holbertonschool-low_level_programming
-Code
-Issues
-2
-Pull requests
-4
-Actions
-Projects
-Security
-Insights
-holbertonschool-low_level_programming/0x16-doubly_linked_lists/103-keygen.c
-@234761
-234761 Fixing -Werrors
-Latest commit 2c912a5 on Dec 11, 2018
- History
- 1 contributor
-58 lines (48 sloc)  1.16 KB
-
 /*
  * File: 103-keygen.c
  * Auth: Brennan D Baraban
@@ -87,18 +56,3 @@ int main(int __attribute__((__unused__)) argc, char *argv[])
 	printf("%s", password);
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-holbertonschool-low_level_programming/103-keygen.c at master · bdbaraban/holbertonschool-low_level_programming
